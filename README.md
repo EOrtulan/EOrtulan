@@ -1,4 +1,16 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/eduardo-ortulan-2435b51b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+ Olá, me chamo Eduardo Ortulan Roberto, sou de Macaé-RJ e atualmente sou Pessoa estudante na Trybe.
+
+<!-- #### Sobre mim:
+##### • Estou cursando o módulo de back-end para me tornar um profissional mais completo
+##### • 
+• d
+• f
+• v 
+• g
+• g
+ -->
 
 <!-- <a href="https://www.linkedin.com/in/eduardo-ortulan-2435b51b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
