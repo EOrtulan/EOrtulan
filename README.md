@@ -1,10 +1,6 @@
- Olá,eu sou o Eduardo,tenho 22 anos e sou um desenvolvedor front-end.
+ Olá,eu sou o Eduardo,tenho 22 anos e sou desenvolvedor front-end.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EOrtulan&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOrtulan&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=EOrtulan&show_icons=true&theme=radical"/><a href="https://github.com/EOrtulan"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EOrtulan&layout=compact&langs_count=7&theme=radical"/></div>
 
 <!-- <div>
 <img alt="javascript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
