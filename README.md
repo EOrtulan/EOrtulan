@@ -1,6 +1,6 @@
  Olá,eu sou o Eduardo,tenho 22 anos e sou desenvolvedor front-end.
 
-<div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=EOrtulan&show_icons=true&theme=radical"/><a href="https://github.com/EOrtulan"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EOrtulan&layout=compact&langs_count=7&theme=radical"/></div>
+<div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=EOrtulan&show_icons=true&theme=radical"/><a href="https://github.com/EOrtulan"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EOrtulan&layout=compact&langs_count=7&theme=radical"/></div>
 
 <!-- <div>
 <img alt="javascript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
