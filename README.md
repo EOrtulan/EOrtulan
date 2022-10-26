@@ -21,3 +21,5 @@ Contatos
 <div>
 	<a href="https://www.linkedin.com/in/eduardo-ortulan-2435b51b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
+![Snake animation](https://github.com/EOrtulan/EOrtulan/blob/output/github-contribution-grid-snake.svg)
