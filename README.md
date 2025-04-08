@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Web em transição de carreira
 
-Sou desenvolvedor full stack com base sólida em JavaScript, Node.js e ferramentas modernas de desenvolvimento web. Me formei pela Trybe e tenho me dedicado a criar projetos próprios e estudar ferramentas como Power Apps.
+Sou formado em Desenvolvimento Web pela Trybe e atualmente estou expandindo meus conhecimentos como desenvolvedor Full Stack. Tenho experiência com JavaScript, Node.js, Express, HTML, CSS e estou estudando tecnologias como Power apps.
 
 Minha experiência anterior como auxiliar de logística me ajudou a desenvolver organização, agilidade e foco em resultados — habilidades que hoje aplico como programador.
 
