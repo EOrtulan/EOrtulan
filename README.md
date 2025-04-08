@@ -1,4 +1,38 @@
- Olá,eu sou o Eduardo,tenho 22 anos e sou desenvolvedor front-end.
+# Eduardo Ortulan
+
+### Desenvolvedor Web em transição de carreira
+
+Sou desenvolvedor full stack com base sólida em JavaScript, Node.js e ferramentas modernas de desenvolvimento web. Me formei pela Trybe e tenho me dedicado a criar projetos próprios e estudar ferramentas como Power Apps.
+
+Minha experiência anterior como auxiliar de logística me ajudou a desenvolver organização, agilidade e foco em resultados — habilidades que hoje aplico como programador.
+
+Atualmente busco uma oportunidade de trabalho remoto como desenvolvedor, seja front-end, back-end ou full stack.
+
+---
+
+### Tecnologias e Ferramentas:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="background:white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerapps.png" height="40" alt="Power Apps"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
+
+---
+
+### Entre em contato:
+
+- [LinkedIn](https://www.linkedin.com/in/eduardo-ortulan-roberto-2435b51b5/)
+- Email: eduortulan@gmail.com
+
+---
+
+
 
 <div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=EOrtulan&show_icons=true&theme=radical"/><a href="https://github.com/EOrtulan"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EOrtulan&layout=compact&langs_count=7&theme=radical"/></div>
 
