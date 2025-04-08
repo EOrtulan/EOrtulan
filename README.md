@@ -20,7 +20,6 @@ Atualmente busco uma oportunidade de trabalho remoto como desenvolvedor, seja fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-<img src="https://img.icons8.com/color/48/microsoft-powerapps.png" alt="Power Apps" height="40"/>
 </p>
 
 ---
