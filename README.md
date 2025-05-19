@@ -1,12 +1,11 @@
-## Olá,eu sou o Eduardo Ortulan
+👋 Sobre mim
+Olá! Me chamo Eduardo e sou formado em Desenvolvimento Web pela Trybe, com foco em fundamentos da programação, desenvolvimento front-end, back-end, metodologias ágeis e soft skills.
 
-### Desenvolvedor Web em transição de carreira
+Atualmente, trabalho como auxiliar de logística na Oceânica, mas estou em transição de carreira e buscando uma oportunidade como desenvolvedor front-end. Tenho me dedicado a aprimorar minhas habilidades com HTML, CSS, JavaScript, React e boas práticas de desenvolvimento, além de construir projetos com foco em problemas reais e na experiência do usuário.
 
-Sou formado em Desenvolvimento Web pela Trybe e atualmente estou expandindo meus conhecimentos como desenvolvedor Full Stack. Tenho experiência com JavaScript, Node.js, Express, HTML, CSS e estou estudando tecnologias como Power apps.
+Aqui no meu GitHub você encontra meus projetos, que demonstram minha evolução técnica e meu aprendizado contínuo.
 
-Minha experiência anterior como auxiliar de logística me ajudou a desenvolver organização, agilidade e foco em resultados — habilidades que hoje aplico como programador.
-
-Atualmente busco uma oportunidade de trabalho remoto como desenvolvedor, seja front-end, back-end ou full stack.
+🎯 Meu objetivo é fazer parte de um time onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de interfaces modernas, acessíveis e funcionais.
 
 ---
 
