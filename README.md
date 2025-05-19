@@ -1,4 +1,5 @@
 👋 Sobre mim
+
 Olá! Me chamo Eduardo e sou formado em Desenvolvimento Web pela Trybe, com foco em fundamentos da programação, desenvolvimento front-end, back-end, metodologias ágeis e soft skills.
 
 Atualmente, trabalho como auxiliar de logística na Oceânica, mas estou em transição de carreira e buscando uma oportunidade como desenvolvedor front-end. Tenho me dedicado a aprimorar minhas habilidades com HTML, CSS, JavaScript, React e boas práticas de desenvolvimento, além de construir projetos com foco em problemas reais e na experiência do usuário.
